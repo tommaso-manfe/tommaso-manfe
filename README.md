@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tommaso-manfe
 - 👀 I’m interested in household finance, financial economics and econometrics
 - 🌱 I’m currently working as an RP at Booth School of Business, University of Chicago
-- 📫 How to reach me tommasomanfe@gmail.com / tommaso.manfe@studenti.unipd.it / tommaso.manfe@chicagobooth.edu
+- 📫 How to reach me tommasomanfe@gmail.com / tommaso.manfe@chicagobooth.edu
 
 <!---
 tommaso-manfe/tommaso-manfe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
