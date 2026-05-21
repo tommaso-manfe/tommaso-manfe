@@ -1,6 +1,6 @@
-Tommaso Manfè
-Finance Ph.D. Student, The Wharton School, Univerisity of Pennsylvania
-Email: tmanfe@wharton.upenn.edu
+- Tommaso Manfè
+- Finance Ph.D. Student, The Wharton School, Univerisity of Pennsylvania
+- Email: tmanfe@wharton.upenn.edu
 
 <!---
 tommaso-manfe/tommaso-manfe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
